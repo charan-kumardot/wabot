@@ -1,0 +1,4 @@
+Date:(.*)
+Name:(.*)
+Phone_no:(.*)
+Mode of shipping:(.*)
